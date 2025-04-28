@@ -1,0 +1,13 @@
+{
+    "host": "0.0.0.0",
+    "port": 8000,
+    "log_level": "info",
+    "log_file": "mcp_terminal_server.log",
+    "max_log_size_mb": 10,
+    "log_backup_count": 5,
+    "restart_on_failure": true,
+    "max_restart_attempts": 5,
+    "restart_delay_seconds": 10,
+    "shutdown_timeout_seconds": 30,
+    "working_directory": null
+}
